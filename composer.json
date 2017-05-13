@@ -1,6 +1,5 @@
 {
   "name": "frederickjh/test_external_library",
-  "type": "drupal-library",
   "description": "Test external library for testing purposes. It does nothing but get installed.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
