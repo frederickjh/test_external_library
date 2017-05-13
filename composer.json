@@ -1,0 +1,13 @@
+{
+  "name": "frederickjh/test_external_library",
+  "type": "drupal-library",
+  "description": "Test external library for testing purposes. It does nothing but get installed.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/frederickjh/test_external_library",
+  "minimum-stability": "dev",
+  "support": {
+    "source": "https://github.com/frederickjh/test_external_library.git"
+  },
+  "require": { }
+}
